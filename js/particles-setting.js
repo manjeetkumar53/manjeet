@@ -1,7 +1,3 @@
-/**
-*	Noisee (HTML)
-*	Copyright © Noisee by beshleyua. All Rights Reserved.
-**/
 
 $(function () {
 	'use strict';
