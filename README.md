@@ -1,2 +1,3 @@
-# manjeetkumar53.github.io
-My resume
+## manjeetkumar53.github.io
+
+# My resume
